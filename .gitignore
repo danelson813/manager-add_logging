@@ -1,0 +1,4 @@
+snippets.py
+*.log
+helpers.py
+__pychache__/
